@@ -2,7 +2,11 @@ p {
     color:crimson;
     font-size: 14px;
 }
-h2 h1{
+h2{
     color: darkblue;
-    font-size: 30px;
+    font-size: 60px;
+}
+h1{
+    color:rgb(44, 139, 0)
+    font-size: 100px;
 }
